@@ -1,0 +1,7 @@
+RU:
+Для корректной работы программы распокавать архив в рабочую директорию (любая на ваше усмотрение) и НЕ ПЕРЕНОСИТЬ ИСПОЛНЯЕМЫЙ ФАЙЛ в другое место. 
+В папке Release лежат все необходимые для корректной работы программы файлы!
+
+ENG: 
+For the program to work correctly, unpack the archive into a working directory (any at your discretion) and DO NOT TRANSIT THE EXECUTION (Optimum.exe) FILE to another location. 
+The Release folder contains all the files necessary for the program to work correctly!

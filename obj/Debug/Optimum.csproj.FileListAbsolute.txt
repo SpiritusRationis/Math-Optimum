@@ -1,0 +1,15 @@
+C:\Users\Oleg\source\repos\Optimum\bin\Debug\Optimum.exe.config
+C:\Users\Oleg\source\repos\Optimum\bin\Debug\Optimum.exe
+C:\Users\Oleg\source\repos\Optimum\bin\Debug\Optimum.pdb
+C:\Users\Oleg\source\repos\Optimum\obj\Debug\Optimum.csproj.AssemblyReference.cache
+C:\Users\Oleg\source\repos\Optimum\obj\Debug\Optimum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oleg\source\repos\Optimum\obj\Debug\Optimum.Optimum.resources
+C:\Users\Oleg\source\repos\Optimum\obj\Debug\Optimum.Properties.Resources.resources
+C:\Users\Oleg\source\repos\Optimum\obj\Debug\Optimum.csproj.GenerateResource.cache
+C:\Users\Oleg\source\repos\Optimum\obj\Debug\Optimum.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\source\repos\Optimum\obj\Debug\Optimum.exe
+C:\Users\Oleg\source\repos\Optimum\obj\Debug\Optimum.pdb
+C:\Users\Oleg\source\repos\Optimum\bin\Debug\info.lundin.math.dll
+C:\Users\Oleg\source\repos\Optimum\obj\Debug\Optimum.Help.resources
+C:\Users\Oleg\source\repos\Optimum\obj\Debug\Optimum.csproj.CopyComplete
+C:\Users\Oleg\source\repos\Optimum\obj\Debug\Optimum.About.resources

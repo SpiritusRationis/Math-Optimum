@@ -1,0 +1,44 @@
+Supported operator:
+1) +
+2) -
+3) *
+4) /
+5) "^" - is raised to (power) for example 3^2 
+6) "%" - is the modulo operator
+
+Suppotred functions:
+1)  sqrt
+2)  sin
+3)  cos
+4)  tan
+5)  atan
+6)  acos
+7)  asin
+8)  acotan
+9)  exp
+10) ln
+11) log
+12) sinh
+13) cosh
+14) tanh
+15) abs
+16) ceil
+17) floor
+18) fac
+19) sfac
+20) round
+21) fpart
+These functions mostly map to the System.Math functions except fac, sfac which is the factorial and semi-factorial functions and fpart which returns the decimal part of a value.
+
+Supported constants:
+1) Pi (value of System.Math.PI)
+2) Euler (value of System.Math.E)
+3) true (1.0)
+4) false (0.0)
+5) Infinity (value of Double.PositiveInfinity)
+
+
+Variable naming restrictions
+All variable names must start with an alphabetic letter (a-z) and may contain digits at the end but not inside the variable name.
+Examples: x, y, z, var1, var2, myverylongvariablename
+Variable names not can contain function keywords 
